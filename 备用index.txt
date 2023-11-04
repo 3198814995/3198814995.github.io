@@ -1,0 +1,135 @@
+<html>
+<head>
+    <!DOCTYPE html>
+    <html>
+
+    <head>
+        <meta charset="UTF-8">
+    </head>
+
+    <body style="background-color:silver;">
+    </body>
+
+</html>
+    }
+<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<title>音乐</title>
+<script src="js/jq.js"></script>
+</head>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">天外来物</p>
+    <audio src="天外来物.mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">杀死那个石家庄人.mp3</p>
+    <audio src="杀死那个石家庄人.mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">我落泪情绪零碎.mp3</p>
+    <audio src="我落泪情绪零碎.mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">说好的幸福呢.mp3</p>
+    <audio src="说好的幸福呢.mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">退后.mp3</p>
+    <audio src="退后.mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">告白气球.mp3</p>
+    <audio src="告白气球.mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">Elephante、Matluck - Come Back For You</p>
+    <audio src="Elephante、Matluck - Come Back For You.mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">
+        FrogMonster - Remember Our Summer>
+        <audio src="FrogMonster - Remember Our Summer.mp3" width="100%" controls="" id="v4">
+        </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">G.E.M. 邓紫棋 - 多远都要在一起 (CCTV音乐频道)</p>
+    <audio src="G.E.M. 邓紫棋 - 多远都要在一起 (CCTV音乐频道).mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">Jonas Blue、RAYE - By Your Side (DJ酉阳田禹版)</p>
+    <audio src="Jonas Blue、RAYE - By Your Side (DJ酉阳田禹版).mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">Kastra - Fool For You</p>
+    <audio src="Kastra - Fool For You.mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">Lulleaux、Kid Princess - Empty Love.mp3</p>
+    <audio src="Lulleaux、Kid Princess - Empty Love.mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">Zealot周星星 - 毒药</p>
+    <audio src="Zealot周星星 - 毒药.mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">程佳佳 - 好想抱住你</p>
+    <audio src="程佳佳 - 好想抱住你.mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">街道办GDC、欧阳耀莹 - 春娇与志明</p>
+    <audio src="街道办GDC、欧阳耀莹 - 春娇与志明.mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">曲肖冰 - 谁 (网友改编)</p>
+    <audio src="曲肖冰 - 谁 (网友改编).mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">晚美无瑕 - Zood</p>
+    <audio src="晚美无瑕 - Zood.mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<body id="v1">
+    <h1 id="v2"></h1>
+    <p id="v3">张韶涵 - 淋雨一直走</p>
+    <audio src="张韶涵 - 淋雨一直走.mp3" width="100%" controls="" id="v4">
+    </audio>
+</body>
+<div style="width:400px;margin:0 auto; padding:20px 0;">
+    <center>
+        <div class="text" style=" text-align:center;">
+            <a href="https://beian.miit.gov.cn/" target="_white">粤ICP备2022129511号</a>?2023-2023 lgx1346792580.top
+
+            <div style="width:300px;margin:0 auto; padding:20px 0;">
+                <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=46010602001158" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="https://www.yiqiuwl.com/content/uploadfile/202208/cffa1659599066.png" style="float:left;" /><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">琼公网安备 46010602001158号</p></a>
+            </div>
